@@ -16,7 +16,7 @@
 
 The primary purpose of this analysis is to examine the iPhone sales performance by identifying trends across different geographical locations and iPhone models.
 
-### Data Source and Overview
+### Data Source
 
 The datasets used for this analysis were gotten from the Kaggle.com website. The dataset includes the following fields: Order_ID,Customer_Name,Country,iPhone_model,Storage,Color,Quantity,Price,Sale_Date,Payment_Method
 

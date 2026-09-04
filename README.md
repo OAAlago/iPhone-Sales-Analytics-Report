@@ -65,6 +65,11 @@ The cleaned dataset was imported into Power BI environment for analysis. As part
 
 
 ### Visualization
+### iPhone Sales Performance
+<img width="440" height="246" alt="Screenshot 2026-08-29 120532" src="https://github.com/user-attachments/assets/de27b6a1-73fc-4d6d-aefc-d2419bafb53d" />
+
+### Customer Purchasing Patterns
+<img width="434" height="248" alt="Screenshot 2026-08-29 120554" src="https://github.com/user-attachments/assets/ed4edb41-888c-496b-b4a4-d13c456df677" />
 
 
 ### Recommendations

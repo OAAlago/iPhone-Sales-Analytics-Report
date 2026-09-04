@@ -50,9 +50,9 @@ The cleaned dataset was imported into Power BI environment for analysis. As part
 |SUM            |              |TotalSales| 
 
 ##### Analysis and Insights
-1st Objective: Analyze iPhone sales performance by Country, iPhone model and month
+1st Objective: Analyze iPhone sales performance by Country, iPhone model and month.
 
-* Sales performance by country: The UK performed the most in sales with 118K, USA with 115K, Canada with 84K, UAE with 78K, Germany with 53K and Pakistan with 47K
+* Sales performance by country: The UK performed the most in sales with 118K, USA with 115K, Canada with 84K, UAE with 78K, Germany with 53K and Pakistan with 47K.
 * Sales performance by iPhone model: The iPhone 14 pro performed the most with 115K in sales, followed by the iPhone 15 pro max with 101K in sales. 
 * Sales Monthly trend: The iPhone experienced a downward sales trend with 160K in the month of January compared to 99K in April.  
 
@@ -73,14 +73,14 @@ The cleaned dataset was imported into Power BI environment for analysis. As part
 
 
 ### Recommendations
-Based on the analysis, we recommend the following actions
+Based on the analysis, we recommend the following actions:
 
-- Address Weak Sales Performance in Pakistan
-- Improve the Performance of Underperforming iPhone Models
-- Address the Declining Monthly Sales Trend
-- Address Low Demand for Less Popular Colors
-- Reduce the Risk of Slow-Moving Storage Options
-- Improve the Quality and Coverage of Future Sales Data
+- Address Weak Sales Performance in Pakistan.
+- Improve the Performance of Underperforming iPhone Models.
+- Address the Declining Monthly Sales Trend.
+- Address Low Demand for Less Popular Colors.
+- Reduce the Risk of Slow-Moving Storage Options.
+- Improve the Quality and Coverage of Future Sales Data.
 
 ### Limitations
 - The dataset only covers transactions from Jan 1, 2025 to May 1, 2025. As a result, findings may not reflect long term sales trends.

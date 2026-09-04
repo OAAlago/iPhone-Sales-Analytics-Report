@@ -3,7 +3,7 @@
 
 ## Table of contents
 - [Project Overview](#project-overview)
-- [Data Source and Overview](#data-source-and-overview)
+- [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning Process](#data-cleaning-process)
 - [Data Transformation,Analysis and Insights](#data-transformation-analysis-and-insights)
